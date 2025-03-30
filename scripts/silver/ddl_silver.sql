@@ -6,7 +6,6 @@ Script Purpose:
     This script creates tables in the 'silver' schema, dropping existing tables 
     if they already exist.
 	  Run this script to re-define the DDL structure of 'silver' Tables
-		  https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/scripts
 Metadata columns :
 	Extra columns added by DE that don't orginate from the source data
 ===============================================================================
