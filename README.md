@@ -12,12 +12,15 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 📖 Project Overview
 This project involves:
 
+![DW Project End to End drawio](https://github.com/user-attachments/assets/c81f40c7-6d94-43b4-9ea9-95f2e878b9cb)
+
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
 
 SQL Development
 Data Architect
