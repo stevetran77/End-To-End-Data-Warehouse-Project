@@ -37,4 +37,4 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 🌟 About Me
 
-Hi there! I'm Cau Tran Ngoc. I’m a Data Analyst and passionate about Data Engineering!
+Hi there! I'm Cau Tran Ngoc. I’m a Data Analyst and in the progress of transitioning into Data Engineering!
